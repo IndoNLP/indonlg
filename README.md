@@ -43,7 +43,3 @@ We provide the access to our large pretraining dataset.
 We provide IndoBART and IndoGPT2 Pretrained Language Model [[Link]](https://huggingface.co/indobenchmark)
 - IndoBART [[Link]](#)
 - IndoGPT2 [[Link]](#)
-
-## Leaderboard
-- Community Portal and Public Leaderboard [[Link]](https://www.indobenchmark.com/leaderboard.html)
-- Submission Portal https://competitions.codalab.org/competitions/26537
