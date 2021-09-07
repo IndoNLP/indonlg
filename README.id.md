@@ -48,4 +48,4 @@ Kami menyediakan akses ke kumpulan data pra-pelatihan kami yang besar.
 ## Model IndoBART and IndoGPT2 
 Kami menyediakan Pretrained Language Model IndoBART dan IndoGPT2  [[Link]](https://huggingface.co/indobenchmark)
 - IndoBART [[Link]]()
-- IndoGPT2 [[Linkg]]()
+- IndoGPT2 [[Link]]()
