@@ -19,6 +19,10 @@ If you are using any component on IndoNLG including Indo4B-Plus, IndoBART, or In
 }
 ```
 
+### Example
+- We provide example to load IndoBART model and fine-tune the model on Machine Translation task.
+- Check our example on the following [Link](https://github.com/indobenchmark/indonlg/tree/master/examples)
+
 ## How to contribute to IndoNLG?
 Be sure to check the [contributing guidelines](https://github.com/indobenchmark/indonlg/blob/master/CONTRIBUTING.md) and contact the maintainers or open an issue to collect feedbacks before starting your PR.
 
