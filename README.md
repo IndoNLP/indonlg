@@ -6,7 +6,7 @@
 <b>IndoNLG</b> is a collection of Natural Language Generation (NLG) resources for Bahasa Indonesia with 6 kind of downstream tasks. We provide the code to reproduce the results and large pre-trained models (<b>IndoBART</b> and <b>IndoGPT</b>) trained with around 4 billion word corpus (<b>Indo4B-Plus</b>), around ~25 GB of text data. This project was initially started by a joint collaboration between universities and industry, such as Institut Teknologi Bandung, Universitas Multimedia Nusantara, The Hong Kong University of Science and Technology, Universitas Indonesia, Gojek, and Prosa.AI.
 
 ## Research Paper
-IndoNLG has been accepted by EMNLP 2021 and you can find the details in our paper https://www.aclweb.org/anthology/2020.aacl-main.85.pdf.
+IndoNLG has been accepted by EMNLP 2021 and you can find the details in our paper https://arxiv.org/abs/2104.08200.
 If you are using any component on IndoNLG including Indo4B-Plus, IndoBART, or IndoGPT in your work, please cite the following paper:
 ```
 @misc{cahyawijaya2021indonlg,
