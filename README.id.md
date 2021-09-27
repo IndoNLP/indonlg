@@ -33,19 +33,19 @@ rm downstream_task_datasets.zip
 ```
 
 ### Contoh
-- Panduan untuk memuat model IndoBERT dan menyempurnakan model pada tugas Sequence Classification dan Sequence Tagging.
-- Cek disini: [tautan](https://github.com/indobenchmark/indonlu/tree/master/examples)
+- Panduan untuk memuat model IndoBART dan menyempurnakan model pada tugas Machine Translation.
+- Cek disini: [tautan](https://github.com/indobenchmark/indonlg/tree/master/examples)
 
 ### Susunan Pengiriman
 Dimohon untuk memeriksa [tautan ini] (https://github.com/indobenchmark/indonlu/tree/master/submission_examples). Untuk setiap tugas, ada format yang berbeda. Setiap file pengiriman selalu dimulai dengan kolom `index` (id sampel pengujian mengikuti urutan set pengujian yang disamarkan).
 
 Untuk pengiriman, pertama-tama Anda perlu mengganti nama prediksi Anda menjadi `pred.txt`, lalu membuat file menjadi zip. Setelah itu, Anda perlu mengizinkan sistem untuk menghitung hasilnya. Anda dapat dengan mudah memeriksa kemajuan anda di tab `hasil` Anda.
 
-## Indo4B Dataset
+## Indo4B-Plus Dataset
 Kami menyediakan akses ke kumpulan data pra-pelatihan kami yang besar.
-- Indo4B-Plus Dataset Upscaled (~30 GB tidak dikompresi, 9.4 GB dikompresi) [[Link]](https://storage.googleapis.com/babert-pretraining/IndoNLG_finals/IndoNLG_ALL_new_dataset_preprocessed_uncased.txt.zip)
+- Indo4B-Plus Dataset Upscaled (~25 GB tidak dikompresi, 9.4 GB dikompresi) [[Link]](https://storage.googleapis.com/babert-pretraining/IndoNLG_finals/IndoNLG_ALL_new_dataset_preprocessed_uncased.txt.zip)
 
 ## Model IndoBART and IndoGPT2 
 Kami menyediakan Pretrained Language Model IndoBART dan IndoGPT2  [[Link]](https://huggingface.co/indobenchmark)
 - IndoBART [[Link]]()
-- IndoGPT2 [[Linkg]]()
+- IndoGPT2 [[Link]]()
