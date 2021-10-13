@@ -39,7 +39,10 @@ rm downstream_task_datasets.zip
 We provide the access to our large pretraining dataset.
 - Indo4B-Plus Dataset Upscaled (~25 GB uncompressed, 9.4 GB compressed) [[Link]](https://storage.googleapis.com/babert-pretraining/IndoNLG_finals/IndoNLG_ALL_new_dataset_preprocessed_uncased.txt.zip)
 
-## IndoBART and IndoGPT2 Models
-We provide IndoBART and IndoGPT2 Pretrained Language Model [[Link]](https://huggingface.co/indobenchmark)
-- IndoBART [[Link]](#)
-- IndoGPT2 [[Link]](#)
+## IndoBART and IndoGPT Models
+We provide IndoBART and IndoGPT Pretrained Language Model [[Link]](https://huggingface.co/indobenchmark)
+- IndoBART [[Link]](https://huggingface.co/indobenchmark/indobart)
+- IndoBART-v2 [[Link]](https://huggingface.co/indobenchmark/indobart-v2)
+- IndoGPT [[Link]](https://huggingface.co/indobenchmark/indogpt)
+
+
