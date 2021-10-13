@@ -45,9 +45,9 @@ Untuk pengiriman, pertama-tama Anda perlu mengganti nama prediksi Anda menjadi `
 Kami menyediakan akses ke kumpulan data pra-pelatihan kami yang besar.
 - Indo4B-Plus Dataset Upscaled (~25 GB tidak dikompresi, 9.4 GB dikompresi) [[Link]](https://storage.googleapis.com/babert-pretraining/IndoNLG_finals/IndoNLG_ALL_new_dataset_preprocessed_uncased.txt.zip)
 
-## Model IndoBART and IndoGPT2 
-Kami menyediakan Pretrained Language Model IndoBART dan IndoGPT2  [[Link]](https://huggingface.co/indobenchmark)
+## Model IndoBART and IndoGPT
+Kami menyediakan Pretrained Language Model IndoBART dan IndoGPT  [[Link]](https://huggingface.co/indobenchmark)
 - IndoBART [[Link]](https://huggingface.co/indobenchmark/indobart)
 - IndoBART-v2 [[Link]](https://huggingface.co/indobenchmark/indobart-v2)
-- IndoGPT2 [[Link]](https://huggingface.co/indobenchmark/indogpt)
+- IndoGPT [[Link]](https://huggingface.co/indobenchmark/indogpt)
 
