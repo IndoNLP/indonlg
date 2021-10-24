@@ -6,12 +6,12 @@ nltk==3.4.5
 tqdm==4.48.2
 torch==1.7.1
 datasets==1.4.1
-tokenizers==0.9.4
+tokenizers==0.10.3
 tensorflow==2.4.0
 rouge_score==0.0.4
 sentencepiece==0.1.95
 scikit-learn==0.24.1
 sacrebleu==1.5.0
 xlsxwriter
-transformers==4.0.1
-indobenchmark-toolkit==0.0.3
+transformers==4.3.2
+indobenchmark-toolkit==0.0.4
