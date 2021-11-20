@@ -9,13 +9,14 @@
 IndoNLG has been accepted by EMNLP 2021 and you can find the details in our paper https://arxiv.org/abs/2104.08200.
 If you are using any component on IndoNLG including Indo4B-Plus, IndoBART, or IndoGPT in your work, please cite the following paper:
 ```
-@misc{cahyawijaya2021indonlg,
-      title={IndoNLG: Benchmark and Resources for Evaluating Indonesian Natural Language Generation}, 
-      author={Samuel Cahyawijaya and Genta Indra Winata and Bryan Wilie and Karissa Vincentio and Xiaohong Li and Adhiguna Kuncoro and Sebastian Ruder and Zhi Yuan Lim and Syafri Bahar and Masayu Leylia Khodra and Ayu Purwarianti and Pascale Fung},
-      year={2021},
-      eprint={2104.08200},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{cahyawijaya-etal-2021-indonlg,
+    title = "{I}ndo{NLG}: Benchmark and Resources for Evaluating {I}ndonesian Natural Language Generation",
+    author = "Cahyawijaya, Samuel and Winata, Genta Indra and Wilie, Bryan and Vincentio, Karissa and Li, Xiaohong and Kuncoro, Adhiguna and Ruder, Sebastian and Lim, Zhi Yuan and Bahar, Syafri and Khodra, Masayu and Purwarianti, Ayu and Fung, Pascale",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing", month = nov, year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.699",
+    pages = "8875--8898",
 }
 ```
 
