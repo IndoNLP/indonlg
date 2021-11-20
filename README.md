@@ -45,4 +45,5 @@ We provide IndoBART and IndoGPT Pretrained Language Model [[Link]](https://huggi
 - IndoBART-v2 [[Link]](https://huggingface.co/indobenchmark/indobart-v2)
 - IndoGPT [[Link]](https://huggingface.co/indobenchmark/indogpt)
 
-
+## Indobenchmark Toolkit
+We provide the toolkit to use the IndoNLGTokenizer in [[Link]](https://pypi.org/project/indobenchmark-toolkit/)
