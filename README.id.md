@@ -3,6 +3,8 @@
 
 *Read this README in [English](README.md).*
 
+⚠️ Update 16/11/2024: Kami melakukan pembaruan terhadap tautan data untuk mengakses sumber data IndoNLU!
+
 <b>IndoNLG</b> adalah sebuah koleksi sumber untuk riset dalam topik Natural Language Generation (NLG) untuk Bahasa Indonesia dengan 6 jenis downstream task. Kami menyediakan kode untuk mereproduksi hasil dan model besar yang sudah dilatih sebelumnya (<b>IndoBART</b> dan <b>IndoGPT2</b>) yang dilatih dengan kumpulan tulisan berisi sekitar 4 miliar kata dalam 3 bahasa: Indonesia, Sunda, dan Jawa (<b>Indo4B-Plus</b>) dan lebih dari 25 GB dalam ukuran data teks. Proyek ini awalnya dimulai dari kerjasama antara universitas dan industri, seperti Institut Teknologi Bandung, Universitas Multimedia Nusantara, The Hong Kong University of Science and Technology, Universitas Indonesia, Gojek, Prosa.AI, dan DeepMind.
 
 ## Makalah Penelitian
@@ -25,13 +27,7 @@ Jika Anda menggunakan komponen apa pun di IndoNLG termasuk Indo4B-Plus, IndoBART
 Pastikan anda mengecek [pedoman kontribusi](https://github.com/indobenchmark/indonlg/blob/master/CONTRIBUTING.md) dan hubungi pengelola atau buka issue untuk mengumpulkan umpan balik sebelum memulai PR Anda.
 
 # IndoNLG Downstream Task
-Download and unzip the dataset from https://storage.googleapis.com/babert-pretraining/IndoNLG_finals/downstream_task/downstream_task_datasets.zip
-
-```
-wget https://storage.googleapis.com/babert-pretraining/IndoNLG_finals/downstream_task/downstream_task_datasets.zip
-unzip downstream_task_datasets.zip
-rm downstream_task_datasets.zip
-```
+Download dan unzip dataset dari [[Tautan]](https://drive.google.com/file/d/1rpLBwmNhUcV6m77JEU-ep3NOBsV0zstP/view?usp=sharing)
 
 ### Contoh
 - Panduan untuk memuat model IndoBART dan menyempurnakan model pada tugas Machine Translation.
@@ -44,7 +40,7 @@ Untuk pengiriman, pertama-tama Anda perlu mengganti nama prediksi Anda menjadi `
 
 ## Indo4B-Plus Dataset
 Kami menyediakan akses ke kumpulan data pra-pelatihan kami yang besar.
-- Indo4B-Plus Dataset Upscaled (~25 GB tidak dikompresi, 9.4 GB dikompresi) [[Link]](https://storage.googleapis.com/babert-pretraining/IndoNLG_finals/IndoNLG_ALL_new_dataset_preprocessed_uncased.txt.zip).
+- Indo4B-Plus Dataset Upscaled (~25 GB tidak dikompresi, 9.4 GB dikompresi) [[Link]](https://drive.google.com/file/d/1uG-61559F4iRIBpZXnSJZAPkviXp2fjz/view?usp=sharing).
 
 ## Model IndoBART and IndoGPT
 Kami menyediakan Pretrained Language Model IndoBART dan IndoGPT [[Link]](https://huggingface.co/indobenchmark).
