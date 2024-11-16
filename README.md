@@ -3,6 +3,8 @@
 
 *Baca README ini dalam [Bahasa Indonesia](README.id.md).*
 
+⚠️ Update 16/11/2024: We update the links to the datasets and fasttext models in IndoNLG!
+
 <b>IndoNLG</b> is a collection of Natural Language Generation (NLG) resources for Bahasa Indonesia with 6 kind of downstream tasks. We provide the code to reproduce the results and large pre-trained models (<b>IndoBART</b> and <b>IndoGPT</b>) trained with around 4 billion word corpus (<b>Indo4B-Plus</b>), around ~25 GB of text data. This project was initially started by a joint collaboration between universities and industry, such as Institut Teknologi Bandung, Universitas Multimedia Nusantara, The Hong Kong University of Science and Technology, Universitas Indonesia, DeepMind, Gojek, and Prosa.AI.
 
 ## Research Paper
@@ -28,17 +30,11 @@ If you are using any component on IndoNLG including Indo4B-Plus, IndoBART, or In
 Be sure to check the [contributing guidelines](https://github.com/indobenchmark/indonlg/blob/master/CONTRIBUTING.md) and contact the maintainers or open an issue to collect feedbacks before starting your PR.
 
 # IndoNLG Downstream Task
-Download and unzip the dataset from https://storage.googleapis.com/babert-pretraining/IndoNLG_finals/downstream_task/downstream_task_datasets.zip
-
-```
-wget https://storage.googleapis.com/babert-pretraining/IndoNLG_finals/downstream_task/downstream_task_datasets.zip
-unzip downstream_task_datasets.zip
-rm downstream_task_datasets.zip
-```
+Download and unzip the dataset from this [[Link]](https://drive.google.com/file/d/1rpLBwmNhUcV6m77JEU-ep3NOBsV0zstP/view?usp=sharing)
 
 ## Indo4B-Plus Dataset
 We provide the access to our large pretraining dataset.
-- Indo4B-Plus Dataset Upscaled (~25 GB uncompressed, 9.4 GB compressed) [[Link]](https://storage.googleapis.com/babert-pretraining/IndoNLG_finals/IndoNLG_ALL_new_dataset_preprocessed_uncased.txt.zip)
+- Indo4B-Plus Dataset Upscaled (~25 GB uncompressed, 9.4 GB compressed) [[Link]](https://drive.google.com/file/d/1uG-61559F4iRIBpZXnSJZAPkviXp2fjz/view?usp=sharing)
 
 ## IndoBART and IndoGPT Models
 We provide IndoBART and IndoGPT Pretrained Language Model [[Link]](https://huggingface.co/indobenchmark)
